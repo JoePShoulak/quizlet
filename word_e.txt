@@ -1,0 +1,2 @@
+NAME_1 puts 1 dollar in the bank. Her money grows X times larger each month. After Y months, how much money will NAME_1 have?
+A dish contains one single bactria. The number of bacteria gets X times larger every hour. How many bacteria will there be after Y hours?

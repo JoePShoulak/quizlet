@@ -1,0 +1,2 @@
+If NAME_1 has X apples and NAME_2 gives him Y apples, how many apples does NAME_1 have?
+If NAME_1 goes to the store with $X and finds $Y on the way, how much money does NAME_1 have to spend?

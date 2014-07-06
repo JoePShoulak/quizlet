@@ -1,0 +1,2 @@
+NAME_1 put $1 in the bank. NAME_1's money grows X times larger each month. NAME_1 has $Y now. How many moths has it been since NAME_1 put in that first dollar?
+A dish contained one single bactria some months ago. The number of bacteria gets X times larger every hour. There are now Y bacteria in the dish. How many hours have passed since there was only one?

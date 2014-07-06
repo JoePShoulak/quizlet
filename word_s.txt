@@ -1,0 +1,2 @@
+NAME_1 has $X and spends $Y at the store. How many dollars does NAME_1 have left?
+NAME_1 has X toys and drops Y of them. How many toys does NAME_1 have left?

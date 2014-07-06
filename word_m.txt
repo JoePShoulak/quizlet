@@ -1,0 +1,2 @@
+NAME_1 is making a field. It is X feet long, and Y feet wide. How many square feet is NAME_1's field?
+NAME_1 sells X treats for $Y each. How much money does NAME_1 make?

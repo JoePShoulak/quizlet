@@ -1,0 +1,2 @@
+NAME_1 is trying to find the hypotenuse of a right triangle. The sum of the squares of the legs is X. What is the hypotenuse?
+How many feet wide is NAME_1's square box if the area of the bottom is X square feet?

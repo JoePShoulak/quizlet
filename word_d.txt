@@ -1,0 +1,2 @@
+NAME_1 takes $X and gives it to his Y friends evenly. How much money did NAME_1 give to each friend?
+NAME_1 has a pool that is X square feet. A person needs Y square feet of water to themselves to swim comfortably. How many people can comfortably swim in NAME_1's pool?

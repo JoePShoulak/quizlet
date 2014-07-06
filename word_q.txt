@@ -1,0 +1,2 @@
+NAME_1 has a square box that is X feet wide. What is the area of the bottom of NAME's box?
+NAME_1 wants to put some plants in her garden. NAME_1 measures the side of her square garden to be X feet. If each plant requires 1 square foot of space, how many plants can NAME_1 fit in the garden?
