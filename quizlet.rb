@@ -55,11 +55,11 @@ class Question
       a = a**2
       question = "√#{a}=x"
     when "exponents"
-      a, b = a % 5 + 2 , b % 5
+      a, b = a % 6 + 2 , b % 6
       correct_answer = a**b
       question = "#{a}^#{b}=x"
     when "logarithms"
-      a, b = a % 5 + 1, b % 5
+      a, b = a % 6 + 1, b % 6
       correct_answer = b
       b = a**b
       question = "#{a}^x=#{b}"
